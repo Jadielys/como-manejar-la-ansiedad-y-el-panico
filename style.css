@@ -1,0 +1,64 @@
+
+body{
+  background-color: #b34cc8;
+}
+.titulo {background-color: #ca4e90;
+         margin: 100px;
+        padding: 15px;}
+
+div{
+  color:#853196 ;
+}
+<Font size 20xpe>
+ 
+
+nav {
+      margin:  0;
+      padding: 0px;}
+     
+    
+nav a {
+   
+    display: block;
+       padding: 14px 3px; 
+       color: #853196; 
+       text-decoration: none;
+     float:left;
+      background-color:  #ca4e90;
+     }
+       
+       /* CSS para la navegación horizontal */
+    ul.navbar {
+      list-style-type: none;
+      margin: 15px;
+      padding: 0;
+      overflow: hidden;
+      background-color: #ca4e90;
+    }
+    
+    ul.navbar li {
+      float: left;
+    }
+    
+    ul.navbar li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    ul.navbar li a:hover {
+      background-color: #853196;
+    }
+
+p{ padding: 25px 50px 70px 90px ;
+ background-color: #853196 }
+p{  margin: 25px 50px 70px 90px;
+ background-color: #ca4e90}
+p{ border: 5px solid #474785; }
+
+h2{border-bottom: 1px solid    #474785 
+
+img{margin: 15px;}
+
